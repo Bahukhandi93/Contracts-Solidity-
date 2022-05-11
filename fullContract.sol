@@ -1,5 +1,5 @@
 /*
-Implements fullContract token standard @Bahukhandi93 <solidity>
+Implements fullContract ERC20 token standard @Bahukhandi93 <solidity>
 .*/
 
 
